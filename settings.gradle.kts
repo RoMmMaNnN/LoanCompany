@@ -1,11 +1,11 @@
 rootProject.name = "LoanCompany"
 
 include(
-    "adapter-FD",
-    "connector-BCH",
-    "connector-DE",
-    "DecisionEngine",
-    "frontdesk",
+    "adapter-fd",
+    "connector-bch",
+    "connector-de",
+    "decision-engine",
+    "front-desk",
     "mock-bch",
     "orchestrator"
 )
